@@ -18,6 +18,12 @@ public class Main {
         }
         
         p.talk();
+        
+        System.out.println("\n");
+        
+        GitCamper nechemia = new Nechemia();
+        nechemia.expressAttitudeTowardSout();
+        nechemia.printGithubUsername();
 
     }
 
