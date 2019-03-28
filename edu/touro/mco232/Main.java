@@ -22,9 +22,6 @@ public class Main {
         System.out.println("\n");
         
         GitCamper nechemia = new Nechemia();
-        nechemia.expressAttitudeTowardSout();
-        nechemia.printGithubUsername();
-
     }
 
     private static void doStuff() {
