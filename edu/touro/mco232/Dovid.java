@@ -13,6 +13,6 @@ package edu.touro.mco232;
 
         @Override
         public void expressAttitudeTowardSout() {
-            System.out.println("Sout is frickin pretty dope");
+            System.out.println("Sout is da best");
         }
 }
