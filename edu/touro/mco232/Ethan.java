@@ -17,7 +17,7 @@ public class Ethan implements GitCamper {
 
     @Override
     public void printGithubUsername() {
-        System.out.println("thesabermaniac");
+        System.out.println("ElonMuskCantSellCars");
     }
 
     @Override
