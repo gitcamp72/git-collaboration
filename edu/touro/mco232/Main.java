@@ -21,10 +21,8 @@ public class Main {
         
         //System.out.println("\n");
         
-        GitCamper nechemia = new Nechemia();
-        GitCamper shalom = new Shalom();
-        GitCamper ethan = new Ethan();
-        GitCamper yakov = new Yakov();
+        
+        GitCamper dovid = new Dovid();
     }
 
     private static void doStuff() {
