@@ -17,9 +17,9 @@ public class Main {
             System.out.println("Casted");
         }
         
-        p.talk();
+        //p.talk();
         
-        System.out.println("\n");
+        //System.out.println("\n");
         
         GitCamper nechemia = new Nechemia();
     }
