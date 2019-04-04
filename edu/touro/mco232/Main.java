@@ -17,8 +17,14 @@ public class Main {
             System.out.println("Casted");
         }
         
-        p.talk();
-
+        //p.talk();
+        
+        //System.out.println("\n");
+        
+        GitCamper nechemia = new Nechemia();
+        GitCamper shalom = new Shalom();
+        GitCamper ethan = new Ethan();
+        GitCamper yakov = new Yakov();
     }
 
     private static void doStuff() {
